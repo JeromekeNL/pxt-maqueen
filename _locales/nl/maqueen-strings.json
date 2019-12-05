@@ -16,7 +16,7 @@
     "maqueen.Ultrasonic|block": "Sensor eenheid|%unit",
     "maqueen.readPatrol|block": "Lees route geleiding|%patrol",
     "maqueen.writeLED|block": "LED|%led|LED schakelaar|%ledswitch",
-    "maqueen.IR_read|block": "Lees infrarood"
+    "maqueen.IR_read|block": "Lees infrarood",
 	"maqueen.servoRun|block": "servo|%index|hoek|%angle",
     "maqueen.IR_read_version|block": "Lees IR code",
     "maqueen.Motors.All|block": "Alle"

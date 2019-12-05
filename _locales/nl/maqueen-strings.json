@@ -4,7 +4,7 @@
 	"maqueen.Motors.All|block": "Alle",
     "maqueen.Patrol.PatrolLeft|block": "sensorLinks",
     "maqueen.Patrol.PatrolRight|block": "sensorRechts",
-	"maqueen.writeLED|block": "turn|%ledswitch|%led|LEDlamp",
+	"maqueen.writeLED|block": "Zet|%ledswitch|%led|LEDlamp",
     "maqueen.LEDswitch.turnOn|block": "Aan",
     "maqueen.LEDswitch.turnOff|block": "Uit",
     "maqueen.LED.LEDLeft|block": "linker",

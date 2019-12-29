@@ -16,7 +16,7 @@
     "maqueen.motorStopAll|block": "Stop alle motoren",   
 	"maqueen.Ultrasonic|block": "Sensor eenheid|%unit",
     "maqueen.readPatrol|block": "Lees route geleiding|%patrol",
-    "maqueen.writeLED|block": "LED|%led|LED schakelaar|%ledswitch",
+    "maqueen.writeLED|block": "LED|%led|%ledswitch|kant",
 	"maqueen.IR_callbackUser|block": "met IR ontvangen",
     "maqueen.IR_read|block": "Lees infrarood",
     "maqueen.IR_read_version|block": "Haal product info op",

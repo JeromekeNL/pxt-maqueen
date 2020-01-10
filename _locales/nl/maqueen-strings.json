@@ -14,7 +14,7 @@
     "maqueen.Dir.CCW|block": "Achteruit",
     "maqueen.motorStop|block": "Stop motor|%motors",
     "maqueen.motorStopAll|block": "Stop alle motoren",   
-	"maqueen.Ultrasonic|block": "Sensor eenheid|%unit",
+	"maqueen.Ultrasonic|block": "Ultrasone sensor - eenheid|%unit",
     "maqueen.readPatrol|block": "Lees route geleiding|%patrol",
     "maqueen.writeLED|block": "LED|%led|%ledswitch|kant",
 	"maqueen.IR_callbackUser|block": "met IR ontvangen",
